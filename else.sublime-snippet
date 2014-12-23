@@ -1,5 +1,5 @@
 <snippet>
-  <content>{{else}}</content>
+  <content>{{:}}</content>
   <tabTrigger>el</tabTrigger>
   <scope>text.html.handlebars,text.html.basic source.js.embedded.html, text.html.twig source.js.embedded.html</scope>
   <description>else(handlebars)</description>
